@@ -1,10 +1,11 @@
 # Terms of Service
 
-By using this service, you agree to the following terms:
+The live Terms of Service are the single public page:
 
-1. You are responsible for your own account and activity.
-2. You may not use this service for illegal purposes.
-3. We reserve the right to modify these terms at any time.
-4. This service is provided "as is" without warranties.
+**https://drsinister31.github.io/Privacy-TOS/#terms**
 
-Last updated: June 25, 2026
+That page (`index.html` at the site root) is the canonical Terms of Service and Privacy Policy for the Aporia Nous Computing / Perseus Discord bot. Discord can use the same URL for both the Privacy Policy and Terms of Service fields:
+
+https://drsinister31.github.io/Privacy-TOS/
+
+Last updated: September 25, 2026

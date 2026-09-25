@@ -1,24 +1,11 @@
-\# Privacy Policy
+# Privacy Policy
 
+The live Privacy Policy is the single public page:
 
+**https://drsinister31.github.io/Privacy-TOS/#privacy**
 
-We collect the following information:
+That page (`index.html` at the site root) is the canonical Terms of Service and Privacy Policy for the Aporia Nous Computing / Perseus Discord bot. Discord can use the same URL for both the Privacy Policy and Terms of Service fields:
 
-\- Discord user ID and username (via OAuth)
+https://drsinister31.github.io/Privacy-TOS/
 
-\- Game server data (if you link your Steam account)
-
-
-
-We do \*\*not\*\* share your data with third parties.
-
-Data is stored in our Supabase database for service functionality.
-
-
-
-You may request deletion by contacting us.
-
-
-
-Last updated: June 25, 2026
-
+Last updated: September 25, 2026
